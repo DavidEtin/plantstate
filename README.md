@@ -1,7 +1,6 @@
 # 🌱 PlantState - AI-Powered Plant Classification  
 
 🚀 **Live Demo:** [YouTube Presentation](https://www.youtube.com/watch?v=df5gjoeFsWk)  
-📂 **GitHub Repository:** [PlantState on GitHub](https://github.com/DavidAjest/College-Project-PlantState-rep)  
 
 ---
 
